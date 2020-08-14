@@ -1,0 +1,17 @@
+{
+  "name": "exemplo_qarentena_40",
+  "version": "0.0.1",
+  "description": "exemplo simples com protractor",
+  "main": "baseSpec.js",
+  "scripts": {
+    "test": "protractor baseConfig.js"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "Eduardo Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  }
+}

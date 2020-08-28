@@ -1,0 +1,24 @@
+{
+  "name": "qarentena-cypress-percy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@percy/cypress": "^2.3.1",
+    "cypress": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaolucasfernandes/qarentena-cypress-percy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaolucasfernandes/qarentena-cypress-percy/issues"
+  },
+  "homepage": "https://github.com/joaolucasfernandes/qarentena-cypress-percy#readme"
+}
